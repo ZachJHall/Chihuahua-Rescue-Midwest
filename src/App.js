@@ -4,6 +4,7 @@ import ReactDOM from "react-dom";
 import Header from "./components/header";
 import Body from "./components/body";
 import Footer from "./components/footer";
+import Home from "./components/home";
 import { Route, Link, BrowserRouter as Router, Switch } from "react-router-dom";
 
 export default class App extends React.Component {
