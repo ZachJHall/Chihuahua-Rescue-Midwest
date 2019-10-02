@@ -1,11 +1,12 @@
-.content {
-  height: 1200px;
-  background-color: #e8e8e8; /* second color */
-  background-blend-mode: multiply;
-  background-size: cover;
-  display: grid;
-  place-items: center;
-}
 .logo1 {
   margin-top: 100px;
+}
+.content {
+  height: auto;
+  background-color: #e8f8e8; /* second color */
+  background-blend-mode: multiply;
+  background-size: cover;
+  display: flex;
+
+  justify-content: center;
 }
