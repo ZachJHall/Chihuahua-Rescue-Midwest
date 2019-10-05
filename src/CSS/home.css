@@ -1,0 +1,22 @@
+.intro {
+  display: table;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  position: relative;
+}
+.center {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20px;
+}
+.frame {
+  background-color: white;
+}
+
+.center-fit {
+  max-width: 100%;
+  max-height: 100vh;
+  margin: auto;
+}
