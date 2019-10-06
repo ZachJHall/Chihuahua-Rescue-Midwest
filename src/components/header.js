@@ -1,6 +1,6 @@
 import Home from "./home";
 import Contact from "./contact";
-import List from "./list";
+import Dog from "./dog";
 import Notfound from "./notfound";
 import logo from "../dog.png";
 import Adopt from "./adopt";
@@ -23,7 +23,7 @@ const Header = () => {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/list">Dogs</Link>
+              <Link to="/dog">Dogs</Link>
             </li>
 
             <li>
