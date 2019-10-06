@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Chihuahua-Rescue-Midwest/static/css/main.4557b9d7.chunk.css",
+    "main.js": "/Chihuahua-Rescue-Midwest/static/js/main.2ff8702b.chunk.js",
+    "main.js.map": "/Chihuahua-Rescue-Midwest/static/js/main.2ff8702b.chunk.js.map",
+    "runtime~main.js": "/Chihuahua-Rescue-Midwest/static/js/runtime~main.f6d697f7.js",
+    "runtime~main.js.map": "/Chihuahua-Rescue-Midwest/static/js/runtime~main.f6d697f7.js.map",
+    "static/js/2.3f52fc08.chunk.js": "/Chihuahua-Rescue-Midwest/static/js/2.3f52fc08.chunk.js",
+    "static/js/2.3f52fc08.chunk.js.map": "/Chihuahua-Rescue-Midwest/static/js/2.3f52fc08.chunk.js.map",
+    "index.html": "/Chihuahua-Rescue-Midwest/index.html",
+    "precache-manifest.b4c2f12b4521a26a31d25957021acfa7.js": "/Chihuahua-Rescue-Midwest/precache-manifest.b4c2f12b4521a26a31d25957021acfa7.js",
+    "service-worker.js": "/Chihuahua-Rescue-Midwest/service-worker.js",
+    "static/css/main.4557b9d7.chunk.css.map": "/Chihuahua-Rescue-Midwest/static/css/main.4557b9d7.chunk.css.map",
+    "static/media/dog.png": "/Chihuahua-Rescue-Midwest/static/media/dog.d727bff7.png",
+    "static/media/dog1.jpg": "/Chihuahua-Rescue-Midwest/static/media/dog1.ca1048b7.jpg",
+    "static/media/dog2.jpg": "/Chihuahua-Rescue-Midwest/static/media/dog2.fd12aa5d.jpg",
+    "static/media/dog3.jpg": "/Chihuahua-Rescue-Midwest/static/media/dog3.f6706290.jpg"
+  }
+}
