@@ -1,6 +1,6 @@
 import Home from "./home";
 import Contact from "./contact";
-import List from "./list";
+import Dog from "./dog";
 import Notfound from "./notfound";
 import Adopt from "./adopt";
 import Volunteer from "./volunteer";
@@ -20,7 +20,7 @@ const Body = () => {
       <div className="content">
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route path="/list" component={List} />
+          <Route path="/dog" component={Dog} />
           <Route path="/contact" component={Contact} />
           <Route path="/adopt" component={Adopt} />
           <Route path="/volunteer" component={Volunteer} />
