@@ -1,14 +1,7 @@
-import Home from "./home";
-import Contact from "./contact";
-import Dog from "./dog";
-import Notfound from "./notfound";
 import logo from "../dog.png";
-import Adopt from "./adopt";
-import Volunteer from "./volunteer";
 import React from "react";
 import "../CSS/header.css";
-import ReactDOM from "react-dom";
-import { Route, Link, BrowserRouter as Router, Switch } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
