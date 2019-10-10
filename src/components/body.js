@@ -5,9 +5,8 @@ import Notfound from "./notfound";
 import Adopt from "./adopt";
 import Volunteer from "./volunteer";
 import React from "react";
-import ReactDOM from "react-dom";
 import "../CSS/body.css";
-import { Route, Link, BrowserRouter as Router, Switch } from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 
 const Body = () => {
   return (

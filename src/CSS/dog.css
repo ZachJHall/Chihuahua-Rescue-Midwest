@@ -9,4 +9,7 @@
   padding-top: 2%; /* Same as width, sets height */
   margin-bottom: 2%; /* (100-32*3)/2 */
   position: relative;
+  padding-left: 50px;
+  padding-right: 50px;
+
 }
