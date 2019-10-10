@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0fbd0e7d49786d87a2ab82e3e7bf760",
+    "revision": "70f437211af5f6bd71b0dd92fe33997e",
     "url": "/Chihuahua-Rescue-Midwest/index.html"
   },
   {
-    "revision": "4fba90c5d0086e8c3e3e",
+    "revision": "26d483fa6e93e1cfaaed",
     "url": "/Chihuahua-Rescue-Midwest/static/css/main.ec5402ad.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Chihuahua-Rescue-Midwest/static/js/2.321b9859.chunk.js"
   },
   {
-    "revision": "4fba90c5d0086e8c3e3e",
-    "url": "/Chihuahua-Rescue-Midwest/static/js/main.19b53e72.chunk.js"
+    "revision": "26d483fa6e93e1cfaaed",
+    "url": "/Chihuahua-Rescue-Midwest/static/js/main.7a82aad4.chunk.js"
   },
   {
     "revision": "886b9c9f0569acb9ce9d",
