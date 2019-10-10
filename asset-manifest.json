@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/Chihuahua-Rescue-Midwest/static/css/main.4557b9d7.chunk.css",
-    "main.js": "/Chihuahua-Rescue-Midwest/static/js/main.2ff8702b.chunk.js",
-    "main.js.map": "/Chihuahua-Rescue-Midwest/static/js/main.2ff8702b.chunk.js.map",
+    "main.css": "/Chihuahua-Rescue-Midwest/static/css/main.ec5402ad.chunk.css",
+    "main.js": "/Chihuahua-Rescue-Midwest/static/js/main.19b53e72.chunk.js",
+    "main.js.map": "/Chihuahua-Rescue-Midwest/static/js/main.19b53e72.chunk.js.map",
     "runtime~main.js": "/Chihuahua-Rescue-Midwest/static/js/runtime~main.f6d697f7.js",
     "runtime~main.js.map": "/Chihuahua-Rescue-Midwest/static/js/runtime~main.f6d697f7.js.map",
-    "static/js/2.3f52fc08.chunk.js": "/Chihuahua-Rescue-Midwest/static/js/2.3f52fc08.chunk.js",
-    "static/js/2.3f52fc08.chunk.js.map": "/Chihuahua-Rescue-Midwest/static/js/2.3f52fc08.chunk.js.map",
+    "static/js/2.321b9859.chunk.js": "/Chihuahua-Rescue-Midwest/static/js/2.321b9859.chunk.js",
+    "static/js/2.321b9859.chunk.js.map": "/Chihuahua-Rescue-Midwest/static/js/2.321b9859.chunk.js.map",
     "index.html": "/Chihuahua-Rescue-Midwest/index.html",
-    "precache-manifest.b4c2f12b4521a26a31d25957021acfa7.js": "/Chihuahua-Rescue-Midwest/precache-manifest.b4c2f12b4521a26a31d25957021acfa7.js",
+    "precache-manifest.dd3de44ae2b532f8645b0b8416494315.js": "/Chihuahua-Rescue-Midwest/precache-manifest.dd3de44ae2b532f8645b0b8416494315.js",
     "service-worker.js": "/Chihuahua-Rescue-Midwest/service-worker.js",
-    "static/css/main.4557b9d7.chunk.css.map": "/Chihuahua-Rescue-Midwest/static/css/main.4557b9d7.chunk.css.map",
-    "static/media/dog.png": "/Chihuahua-Rescue-Midwest/static/media/dog.d727bff7.png",
-    "static/media/dog1.jpg": "/Chihuahua-Rescue-Midwest/static/media/dog1.ca1048b7.jpg",
+    "static/css/main.ec5402ad.chunk.css.map": "/Chihuahua-Rescue-Midwest/static/css/main.ec5402ad.chunk.css.map",
+    "static/media/barnaby1.jpg": "/Chihuahua-Rescue-Midwest/static/media/barnaby1.33d9254e.jpg",
+    "static/media/dog.png": "/Chihuahua-Rescue-Midwest/static/media/dog.ad043ddf.png",
+    "static/media/dog1.jpg": "/Chihuahua-Rescue-Midwest/static/media/dog1.d22e3514.jpg",
     "static/media/dog2.jpg": "/Chihuahua-Rescue-Midwest/static/media/dog2.fd12aa5d.jpg",
-    "static/media/dog3.jpg": "/Chihuahua-Rescue-Midwest/static/media/dog3.f6706290.jpg"
+    "static/media/dog3.jpg": "/Chihuahua-Rescue-Midwest/static/media/dog3.f6706290.jpg",
+    "static/media/jeannie1.jpeg": "/Chihuahua-Rescue-Midwest/static/media/jeannie1.e2b00a0c.jpeg",
+    "static/media/jed1.jpg": "/Chihuahua-Rescue-Midwest/static/media/jed1.4615b70c.jpg",
+    "static/media/luna1.jpg": "/Chihuahua-Rescue-Midwest/static/media/luna1.513036fe.jpg",
+    "static/media/oliver1.jpg": "/Chihuahua-Rescue-Midwest/static/media/oliver1.a1e4fda6.jpg",
+    "static/media/oreo1.jpg": "/Chihuahua-Rescue-Midwest/static/media/oreo1.05a8aa12.jpg",
+    "static/media/pixie1.jpg": "/Chihuahua-Rescue-Midwest/static/media/pixie1.f7aa8b81.jpg"
   }
 }
