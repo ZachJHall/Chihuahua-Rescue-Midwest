@@ -57,6 +57,7 @@ const Dog = () => {
   const [dogFive, setDogFive] = React.useState(false);
   const [dogSix, setDogSix] = React.useState(false);
 
+
   const handleExpandClickZero = () => {
     setDogZero(!dogZero);
   };
