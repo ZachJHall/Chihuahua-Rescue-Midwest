@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Chihuahua-Rescue-Midwest/precache-manifest.2c17f94f3efbc4e13b0fb53884bccabf.js"
+  "/Chihuahua-Rescue-Midwest/precache-manifest.aa78ebb0aa873fd4e3eafe4b911f972f.js"
 );
 
 self.addEventListener('message', (event) => {
