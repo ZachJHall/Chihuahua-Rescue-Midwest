@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b88bc2f140ab3321e9710c49a20769e9",
+    "revision": "808c4bcc2c4fa67290927e225d8a1f80",
     "url": "/Chihuahua-Rescue-Midwest/index.html"
   },
   {
-    "revision": "078f01a833b08c87b160",
-    "url": "/Chihuahua-Rescue-Midwest/static/css/main.4cb6221b.chunk.css"
+    "revision": "2318d820664df34a29c9",
+    "url": "/Chihuahua-Rescue-Midwest/static/css/main.eea6fd04.chunk.css"
   },
   {
-    "revision": "ec600e1d20f0454967de",
-    "url": "/Chihuahua-Rescue-Midwest/static/js/2.3f9ec890.chunk.js"
+    "revision": "0c02eeeebc77da0b3afc",
+    "url": "/Chihuahua-Rescue-Midwest/static/js/2.43e93a41.chunk.js"
   },
   {
-    "revision": "078f01a833b08c87b160",
-    "url": "/Chihuahua-Rescue-Midwest/static/js/main.a13a1459.chunk.js"
+    "revision": "2318d820664df34a29c9",
+    "url": "/Chihuahua-Rescue-Midwest/static/js/main.5095dd06.chunk.js"
   },
   {
     "revision": "886b9c9f0569acb9ce9d",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Chihuahua-Rescue-Midwest/static/media/barnaby1.33d9254e.jpg"
   },
   {
-    "revision": "df79261d1d8f2bfcabe8b5e5d8d6f01c",
-    "url": "/Chihuahua-Rescue-Midwest/static/media/chihuahua1.df79261d.jpg"
+    "revision": "21befa53bb86746c821593cd1eaaf8bb",
+    "url": "/Chihuahua-Rescue-Midwest/static/media/chi1.21befa53.jpg"
   },
   {
-    "revision": "c36d012fee5178d4ad20fad360d9938c",
-    "url": "/Chihuahua-Rescue-Midwest/static/media/chihuahua2.c36d012f.jpg"
+    "revision": "68941e4abfbf461cb6daebdd72d9aabb",
+    "url": "/Chihuahua-Rescue-Midwest/static/media/chi2.68941e4a.jpeg"
   },
   {
-    "revision": "4ac1e540a341311a91cf9373b02d62f6",
-    "url": "/Chihuahua-Rescue-Midwest/static/media/chihuahua3.4ac1e540.jpg"
+    "revision": "51c7b9e75dfb11739b5fe01c033b5c93",
+    "url": "/Chihuahua-Rescue-Midwest/static/media/chi3.51c7b9e7.jpeg"
   },
   {
-    "revision": "ea95a81b0138fb627b22e14313ef56a1",
-    "url": "/Chihuahua-Rescue-Midwest/static/media/dog.ea95a81b.png"
+    "revision": "b78630d0ba87dfdd792f62feede14129",
+    "url": "/Chihuahua-Rescue-Midwest/static/media/dog.b78630d0.png"
   },
   {
     "revision": "e2b00a0c196129d9882dacb73a0abe56",
