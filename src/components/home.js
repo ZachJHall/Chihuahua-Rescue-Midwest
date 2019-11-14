@@ -1,8 +1,8 @@
-import React, { useState, useEffect, delay } from "react";
+import React, { useState, useEffect } from "react";
 import "../CSS/home.css";
-import img1 from "../dog1.jpg";
-import img2 from "../dog2.jpg";
-import img3 from "../dog3.jpg";
+import img1 from "../chi1.jpg";
+import img2 from "../chi2.jpeg";
+import img3 from "../chi3.jpeg";
 
 const images = [img1, img2, img3];
 
@@ -16,29 +16,34 @@ const Home = () => {
       5 * 1000
     );
     return () => clearInterval(interval);
-
-    if (image > 2) {
-      image = 0;
-    }
   });
 
   return (
-    <div className="frame">
-      <img className="tee" src={images[image]} />
+    <div>
       <div className="center">
-        <h1>What do we do?</h1>
-        <p>
-          Chihuahua Rescue Midwest is a non profit 501C organization. We are an
-          all volunteer rescue, foster and adoption organization.
-        </p>
+        <div className="contain">
+          <img className="img" alt="" src={images[image]} />
+          <div className="text-block">
+            <h1>Chihuahua Rescue Midwest</h1>
+          </div>
+        </div>
+        <div>
+          <div>
+            <h1>What do we do?</h1>
+            <p>
+              Chihuahua Rescue Midwest is a non profit 501C organization. We are
+              an all volunteer rescue, foster and adoption organization.
+            </p>
 
-        <h1>Our goal?</h1>
-        <p>
-          We believe that irresponsible breeding of animals (especially for
-          profit - puppy mills) is unethical and inhumane. We hope that pet
-          owners will consider adoption as their first choice for selecting a
-          new pet.
-        </p>
+            <h1>Our goal?</h1>
+            <p>
+              We believe that irresponsible breeding of animals (especially for
+              profit - puppy mills) is unethical and inhumane. We hope that pet
+              owners will consider adoption as their first choice for selecting
+              a new pet.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   );

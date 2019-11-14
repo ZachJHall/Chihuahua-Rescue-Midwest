@@ -1,0 +1,37 @@
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 1500px;
+  text-align: center;
+  min-height: 200px;
+
+  align-items: center;
+}
+p {
+  padding: 10px;
+}
+.test {
+  text-align: justify;
+  width: 1500px;
+}
+
+test:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+@media screen and (max-width: 1500px) {
+  .center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    min-height: 200px;
+
+    align-items: center;
+  }
+}

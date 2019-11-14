@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+
+.X {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 400px;
+  padding: 20px;
+  align-items: stretch;
+  justify-content: space-evenly;
+}
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+li {
+  color: #2c3e50;
+  font-size: 15px;
+  line-height: 30px;
+  text-align: justify;
+  letter-spacing: 1px;
+  font-family: "Montserrat", sans-serif;
+}
+/*SG = style grid*/
+.SG {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.SG .sgLi {
+  min-width: 24%;
+  margin: 2% 0.35%;
+  display: inline-flex;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.SG .sgLi:hover {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
+.SG .box {
+  width: 100%;
+  height: 100vh;
+  padding: 1% 2%;
+  background: #fff;
+  min-height: 200px;
+  max-height: 220px;
+  box-sizing: border-box;
+  min-width: 400px;
+}
+/*Styles */
+.df {
+  list-style-type: disc;
+}
+
+/* responsive grid*/
+
+@media (max-width: 425px) {
+  .SG .sgLi {
+    width: 100%;
+  }
+}
+.X > * {
+  margin: 5px;
+  flex: 1;
+}

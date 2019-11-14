@@ -1,12 +1,21 @@
-.container {
+.container1 {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  max-width: 1300px;
+  padding: 20px;
+  align-items: stretch;
+  justify-content: space-evenly;
 }
-
+.container1 > * {
+  margin: 10px;
+  flex: 1;
+  min-width: 400px;
+}
 .item {
   width: 32%;
   padding-top: 2%; /* Same as width, sets height */
   margin-bottom: 2%; /* (100-32*3)/2 */
   position: relative;
+  padding-left: 50px;
+  padding-right: 50px;
 }

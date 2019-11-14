@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "picture": "../images/oliver1.jpg",
+    "weight": "20",
+    "age": "18",
+    "gender": "Male",
+    "name": "Oliver",
+    "descr": "test test test"
+  },
+
+  {
+    "id": 1,
+    "picture": "../images/oliver1.jpg",
+    "weight": "20",
+    "age": "18",
+    "gender": "Male",
+    "name": "Luna",
+    "descr": "test "
+  }
+]

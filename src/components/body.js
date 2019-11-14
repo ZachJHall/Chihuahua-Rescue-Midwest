@@ -4,10 +4,12 @@ import Dog from "./dog";
 import Notfound from "./notfound";
 import Adopt from "./adopt";
 import Volunteer from "./volunteer";
+import Information from "./information";
+import Donation from "./donation";
+import Resources from "./resources";
 import React from "react";
-import ReactDOM from "react-dom";
 import "../CSS/body.css";
-import { Route, Link, BrowserRouter as Router, Switch } from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 
 const Body = () => {
   return (
@@ -24,6 +26,9 @@ const Body = () => {
           <Route path="/contact" component={Contact} />
           <Route path="/adopt" component={Adopt} />
           <Route path="/volunteer" component={Volunteer} />
+          <Route path="/information" component={Information} />
+          <Route path="/donation" component={Donation} />
+          <Route path="/resources" component={Resources} />
           <Route component={Notfound} />
         </Switch>
       </div>
