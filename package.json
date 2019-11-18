@@ -2,7 +2,7 @@
   "name": "rescue",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cjwagn1.github.io/Chihuahua-Rescue-Midwest",
+  "homepage": "http://www.chihuahuarescuemidwest.com/",
   "dependencies": {
     "@material-ui/core": "^4.5.0",
     "@material-ui/icons": "^4.4.3",
