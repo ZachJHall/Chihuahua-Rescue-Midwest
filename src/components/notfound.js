@@ -1,6 +1,14 @@
 import React from "react";
+import Icon from "@material-ui/icons/Error";
+
+import "../CSS/home.css";
 
 const NotFound = () => {
-  return <h1>Not found</h1>;
+  return (
+    <div className="center">
+      <Icon fontSize="large" color="action" />
+      <h1>Page not found</h1>
+    </div>
+  );
 };
 export default NotFound;

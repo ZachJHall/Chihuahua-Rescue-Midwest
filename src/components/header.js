@@ -1,5 +1,5 @@
-import logo from "../dog.png";
-import logo2 from "../dog.png";
+import logo from "../images/dog.png";
+import logo2 from "../images/dog.png";
 import React from "react";
 import "../CSS/header.css";
 import { Link } from "react-router-dom";

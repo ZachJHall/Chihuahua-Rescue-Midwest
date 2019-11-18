@@ -29,7 +29,11 @@ const Donation = () => {
             target="_top"
           >
             <input type="hidden" name="cmd" value="_donations" />
-            <input type="hidden" name="business" value="cjwagn1@gmail.com" />
+            <input
+              type="hidden"
+              name="business"
+              value="patkeeney@charter.net"
+            />
             <input type="hidden" name="currency_code" value="USD" />
             <input
               type="image"

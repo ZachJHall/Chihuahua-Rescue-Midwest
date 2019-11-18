@@ -11,7 +11,9 @@ const ListTemplate = props => {
             <h3>{props.category}</h3>
             <ul className="df">
               <li>
-                <a href={props.link}>{props.name}</a>
+                <a href={props.link} target="_blank">
+                  {props.name}
+                </a>
                 {props.descr}
               </li>
             </ul>
@@ -25,6 +27,7 @@ const ListTemplate = props => {
 const Resources = () => {
   return (
     <div>
+      <h1>Available resources</h1>
       {list.map(p => (
         <ListTemplate
           name={p.name}
@@ -34,84 +37,9 @@ const Resources = () => {
           category={p.category}
         />
       ))}
+      <div className="space"></div>
     </div>
   );
 };
 
-const Real = () => {
-  return (
-    <div>
-      <div className="X">
-        <ul className="SG">
-          <li className="sgLi">
-            <div className="box">
-              <h3>Pet Accessories</h3>
-              <ul className="df">
-                <li>
-                  <a href="https://www.trendyhounds.com/">Trendy Hounds</a> :
-                  Hand made dog collars
-                </li>
-              </ul>
-            </div>
-          </li>
-        </ul>
-
-        <ul className="SG">
-          <li className="sgLi">
-            <div className="box">
-              <h3>Animal services </h3>
-              <ul className="df">
-                <li>
-                  <a href="https://www.ipawstraining.com/">
-                    Infinite Pawsibilities
-                  </a>
-                  : Dog Training Classes
-                </li>
-                <li>
-                  <a href="https://www.facebook.com/Pawsandrelaxpetspa/">
-                    Paws and Relax Pet Spa
-                  </a>
-                  : Pet grooming
-                </li>
-              </ul>
-            </div>
-          </li>
-        </ul>
-
-        <ul className="SG">
-          <li className="sgLi">
-            <div className="box">
-              <h3>Pet Nutrition </h3>
-              <ul className="df">
-                <li>
-                  <a href="https://www.treats-unleashed.com/">
-                    Treats Unleashed
-                  </a>
-                </li>
-                <li>
-                  <a href="https://threedog.com/">Three Dog Bakery</a>
-                </li>
-              </ul>
-            </div>
-          </li>
-        </ul>
-
-        <ul className="SG">
-          <li className="sgLi">
-            <div className="box">
-              <h3>Medical Services </h3>
-              <ul className="df">
-                <li>
-                  <a href="https://lovefamilyvet.com/">
-                    Animal Medical Center of Wentzville
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-  );
-};
 export default Resources;

@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import "../CSS/home.css";
-import img1 from "../chi1.jpg";
-import img2 from "../chi2.jpeg";
-import img3 from "../chi3.jpeg";
+import img1 from "../images/chi1.jpg";
+import img2 from "../images/chi2.jpeg";
+import img3 from "../images/chi3.jpeg";
 
 const images = [img1, img2, img3];
 
@@ -25,23 +25,35 @@ const Home = () => {
           <img className="img" alt="" src={images[image]} />
           <div className="text-block">
             <h1>Chihuahua Rescue Midwest</h1>
+            <p className="para">
+              Thanks for taking a minute to look at our sweet Chihuahua friends.
+              We look forward to assisting you in the adoption process.{" "}
+            </p>
           </div>
         </div>
-        <div>
-          <div>
-            <h1>What do we do?</h1>
-            <p>
-              Chihuahua Rescue Midwest is a non profit 501C organization. We are
-              an all volunteer rescue, foster and adoption organization.
-            </p>
-
-            <h1>Our goal?</h1>
-            <p>
-              We believe that irresponsible breeding of animals (especially for
-              profit - puppy mills) is unethical and inhumane. We hope that pet
-              owners will consider adoption as their first choice for selecting
-              a new pet.
-            </p>
+        <div className="yep">
+          <div class="row">
+            <div class="column">
+              <div className="tagOne">
+                <h1 className="border">Who are we?</h1>
+              </div>
+              <p className="why">
+                Chihuahua Rescue Midwest is a non profit 501C organization. We
+                are an all volunteer rescue, foster and adoption organization.
+              </p>
+            </div>
+            <div class="column">
+              {" "}
+              <div className="tagOne">
+                <h1 className="border">Our goal?</h1>
+              </div>
+              <p className="why">
+                We believe that irresponsible breeding of animals (especially
+                for profit - puppy mills) is unethical and inhumane. We hope
+                that pet owners will consider adoption as their first choice for
+                selecting a new pet.
+              </p>
+            </div>
           </div>
         </div>
       </div>
