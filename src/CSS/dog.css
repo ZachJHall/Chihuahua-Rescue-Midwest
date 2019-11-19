@@ -3,7 +3,7 @@
   flex-wrap: wrap;
   max-width: 1300px;
   padding: 20px;
-  align-items: stretch;
+  align-items: flex-start;
   justify-content: flex-start;
 }
 .container1 > * {
@@ -16,5 +16,22 @@
 @media (max-width: 1300px) {
   .container1 {
     justify-content: space-evenly;
+  }
+}
+
+@media (max-width: 464px) {
+  .container1 > * {
+    margin: 10px;
+    flex: 1;
+    min-width: 280px;
+    max-width: 280px;
+  }
+}
+@media (max-width: 342px) {
+  .container1 > * {
+    margin: 10px;
+    flex: 1;
+    min-width: 220px;
+    max-width: 220px;
   }
 }
