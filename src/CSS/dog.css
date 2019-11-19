@@ -14,7 +14,7 @@
 }
 
 @media (max-width: 1300px) {
-  .container {
+  .container1 {
     justify-content: space-evenly;
   }
 }
