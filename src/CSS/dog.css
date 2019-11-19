@@ -1,4 +1,4 @@
-.container {
+.container1 {
   display: flex;
   flex-wrap: wrap;
   max-width: 1300px;
@@ -6,7 +6,7 @@
   align-items: stretch;
   justify-content: flex-start;
 }
-.container > * {
+.container1 > * {
   margin: 10px;
   flex: 1;
   min-width: 400px;

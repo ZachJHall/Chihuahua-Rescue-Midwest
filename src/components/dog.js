@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../CSS/dog.module.css";
+import "../CSS/dog.css";
 import { makeStyles } from "@material-ui/core/styles";
 import clsx from "clsx";
 import Card from "@material-ui/core/Card";
@@ -98,7 +98,7 @@ const Super = () => {
   return (
     <div>
       <h1>Dogs Available</h1>
-      <div className={styles.container}>
+      <div className="container1">
         {data.map(p => (
           <DogCard
             name={p.name}
