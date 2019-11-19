@@ -32,7 +32,7 @@ const Donation = () => {
             <input
               type="hidden"
               name="business"
-              value="patkeeney@charter.net"
+              value="chihuahuarescuemidwest@gmail.com"
             />
             <input type="hidden" name="currency_code" value="USD" />
             <input
