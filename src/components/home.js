@@ -25,10 +25,6 @@ const Home = () => {
           <img className="img" alt="" src={images[image]} />
           <div className="text-block">
             <h1>Chihuahua Rescue Midwest</h1>
-            <p className="para">
-              Thanks for taking a minute to look at our sweet Chihuahua friends.
-              We look forward to assisting you in the adoption process.{" "}
-            </p>
           </div>
         </div>
         <div className="yep">
