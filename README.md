@@ -1,8 +1,12 @@
 
 
-## Available Scripts
+## Chihuahua Rescue Midwest
 
-In the project directory, you can run:
+Repo for the Chihuahua Rescue Midwest website. To run clone the repo and do the following:
+
+### `npm i`
+
+To download the project dependencies. 
 
 ### `npm start`
 
@@ -10,14 +14,4 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-
-### `npm run deploy`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
